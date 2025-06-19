@@ -1,6 +1,6 @@
 # Splunk-lab
 
-# 🖥️ Splunk Windows Lab using VirtualBox
+#  Splunk Windows Lab using VirtualBox
 
 This lab simulates a small Windows environment to practice **log collection**, **SIEM analysis**, and **threat detection** using Splunk Enterprise.
 
