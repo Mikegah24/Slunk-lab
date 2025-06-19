@@ -4,7 +4,7 @@
 
 This lab simulates a small Windows environment to practice **log collection**, **SIEM analysis**, and **threat detection** using Splunk Enterprise.
 
-## 📌 Lab Goals
+##  Lab Goals
 - Install and configure Splunk Enterprise on Windows
 - Set up Windows clients to forward logs using Splunk Universal Forwarder
 - Practice searching and analyzing Windows event logs
@@ -12,7 +12,7 @@ This lab simulates a small Windows environment to practice **log collection**, *
 
 ---
 
-## 🧱 Lab Architecture
+##  Lab Architecture
 
 
 - VMs: 2 or more Windows machines
@@ -21,7 +21,7 @@ This lab simulates a small Windows environment to practice **log collection**, *
 
 ---
 
-## 🧰 Tools Used
+##  Tools Used
 
 | Tool                    | Purpose                          |
 |-------------------------|----------------------------------|
@@ -33,7 +33,7 @@ This lab simulates a small Windows environment to practice **log collection**, *
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Create VMs
 
@@ -70,7 +70,7 @@ This lab simulates a small Windows environment to practice **log collection**, *
 
 ---
 
-## 🔍 Basic Log Search Examples
+##  Basic Log Search Examples
 
 ```spl
 index=* host=WinClient1
