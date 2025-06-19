@@ -1,4 +1,4 @@
-# Slunk-lab
+# Splunk-lab
 
 # 🖥️ Splunk Windows Lab using VirtualBox
 
