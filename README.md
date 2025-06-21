@@ -85,7 +85,7 @@ This lab simulates a small Windows environment to practice **log collection**, *
 
 <img src="2025-06-21 09_45_47-Settings.png" height="55%" width="55%" alt="Disk Sanitization Steps"/>
 <img src="2025-06-21 09_46_38-New Inbound Rule Wizard.png" height="35%" width="35%" alt="Disk Sanitization Steps"/>
-<img src="2025-06-18 20_19_28-Window.png" height="35%" width="35%" alt="Disk Sanitization Steps"/>
+<img src="2025-06-21 09_47_07-New Inbound Rule Wizard.png" height="35%" width="35%" alt="Disk Sanitization Steps"/>
 
 ---
 
