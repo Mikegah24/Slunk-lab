@@ -100,3 +100,7 @@ EventCreate /ID 100 /L APPLICATION /T INFORMATION /SO MyScript /D "Test Event fr
 
 # Trigger login failures
 runas /user:wronguser notepad.exe
+
+```
+
+<img src="2025-06-19 17_49_15-Settings.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
