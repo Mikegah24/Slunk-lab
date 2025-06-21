@@ -55,6 +55,10 @@ This lab simulates a small Windows environment to practice **log collection**, *
 
 - Download from [Splunk Downloads](https://www.splunk.com/en_us/download/splunk-enterprise.html)
 - Use default install options
+
+<img src="2025-06-19 14_20_46-Window.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="2025-06-19 14_20_46-Window.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="2025-06-19 14_20_46-Window.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 - Access web UI: `http://<splunk-server-ip>:8000`
 
 ### 3. Install Universal Forwarder on Clients
@@ -71,7 +75,7 @@ This lab simulates a small Windows environment to practice **log collection**, *
 
 <img src="2025-06-19 14_20_46-Window.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="2025-06-19 14_21_09-Window.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-2025-06-19 14_21_09-Window.png
+
   
 - Enable TCP port `9997`
 
