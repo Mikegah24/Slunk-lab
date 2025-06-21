@@ -59,6 +59,7 @@ This lab simulates a small Windows environment to practice **log collection**, *
 <img src="2025-06-18 20_18_06-Window.png" height="35%" width="35%" alt="Disk Sanitization Steps"/>
 <img src="2025-06-18 20_18_37-Window.png" height="35%" width="35%" alt="Disk Sanitization Steps"/>
 <img src="2025-06-18 20_19_28-Window.png" height="35%" width="35%" alt="Disk Sanitization Steps"/>
+
 - Access web UI: `http://<splunk-server-ip>:8000`
 
 ### 3. Install Universal Forwarder on Clients
@@ -78,6 +79,13 @@ This lab simulates a small Windows environment to practice **log collection**, *
 
   
 - Enable TCP port `9997`
+
+- Make sure to also allow port `9997` on the firewall (inbound-rules)
+- Go to : `Windows Defender > Inbound rules > New rule > Port > Allow Connection `
+
+<img src="2025-06-18 20_18_06-Window.png" height="35%" width="35%" alt="Disk Sanitization Steps"/>
+<img src="2025-06-18 20_18_37-Window.png" height="35%" width="35%" alt="Disk Sanitization Steps"/>
+<img src="2025-06-18 20_19_28-Window.png" height="35%" width="35%" alt="Disk Sanitization Steps"/>
 
 ---
 
