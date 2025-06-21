@@ -80,7 +80,7 @@ This lab simulates a small Windows environment to practice **log collection**, *
   
 - Enable TCP port `9997`
 
-- Make sure to also allow port `9997` on the firewall (inbound-rules)
+- Make sure to also allow port `9997` on the firewall (inbound-rules) on the Server!!!
 - Go to : `Windows Defender > Inbound rules > New rule > Port > Allow Connection `
 
 <img src="2025-06-21 09_45_47-Settings.png" height="55%" width="55%" alt="Disk Sanitization Steps"/>
