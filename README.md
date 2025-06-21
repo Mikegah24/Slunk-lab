@@ -69,7 +69,7 @@ This lab simulates a small Windows environment to practice **log collection**, *
 
 - Go to: `Settings > Forwarding and Receiving > Configure Receiving`
 
-![image alt](splunk-white-black-bg.png)
+![image alt]([splunk-white-black-bg.png](https://github.com/Mikegah24/Slunk-lab/blob/7a30ffdb427cbbcf17fd76dd1c801ab523922015/2025-06-19%2014_20_46-Window.png))
 ![image alt](splunk-white-black-bg.png)
   
 - Enable TCP port `9997`
