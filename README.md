@@ -83,7 +83,7 @@ This lab simulates a small Windows environment to practice **log collection**, *
 - Make sure to also allow port `9997` on the firewall (inbound-rules)
 - Go to : `Windows Defender > Inbound rules > New rule > Port > Allow Connection `
 
-<img src="2025-06-18 20_18_06-Window.png" height="35%" width="35%" alt="Disk Sanitization Steps"/>
+<img src="2025-06-21 09_45_47-Settings.png" height="55%" width="55%" alt="Disk Sanitization Steps"/>
 <img src="2025-06-18 20_18_37-Window.png" height="35%" width="35%" alt="Disk Sanitization Steps"/>
 <img src="2025-06-18 20_19_28-Window.png" height="35%" width="35%" alt="Disk Sanitization Steps"/>
 
