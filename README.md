@@ -68,6 +68,10 @@ This lab simulates a small Windows environment to practice **log collection**, *
 ### 4. Enable Receiving on Splunk Server
 
 - Go to: `Settings > Forwarding and Receiving > Configure Receiving`
+
+![image alt](splunk-white-black-bg.png)
+![image alt](splunk-white-black-bg.png)
+  
 - Enable TCP port `9997`
 
 ---
