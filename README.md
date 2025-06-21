@@ -1,3 +1,5 @@
+![Alt Text](path/to/image.png)
+
 # Splunk-lab
 
 #  Splunk Windows Lab using VirtualBox
