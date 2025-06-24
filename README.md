@@ -51,7 +51,7 @@ This lab simulates a small Windows environment to practice **log collection**, *
   - Disk: 30GB
   - Name: `WinClient1`
 
-### 2. Install Splunk Enterprise
+### 2. Install Splunk Enterprise On the Server
 
 - Download from [Splunk Downloads](https://www.splunk.com/en_us/download/splunk-enterprise.html)
 - Use default install options
