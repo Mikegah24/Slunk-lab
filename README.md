@@ -6,6 +6,8 @@
 
 This lab simulates a small Windows environment to practice **log collection**, **SIEM analysis**, and **threat detection** using Splunk Enterprise.
 
+### **NOTE‼: You can use the Active Directory Lab in Azure.**
+
 ##  Lab Goals
 - Install and configure Splunk Enterprise on Windows
 - Set up Windows clients to forward logs using Splunk Universal Forwarder
